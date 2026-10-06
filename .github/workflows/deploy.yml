@@ -1,4 +1,4 @@
-name: Deploy Deadwax to GitHub Pages
+name: Deploy Cupcake Pup to GitHub Pages
 
 on:
   push:
