@@ -1,4 +1,4 @@
-name: Deploy Cupcake Pup to GitHub Pages
+name: Deploy Table Time to GitHub Pages
 
 on:
   push:
