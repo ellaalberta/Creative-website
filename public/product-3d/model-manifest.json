@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "venture-3d-handoff/1",
+  "projectName": "Table Time · Table Time camera + app",
+  "modelName": "Table Time · Table Time camera + app",
+  "modelType": "Table Time camera + app",
+  "confirmedAt": "2026-11-06T04:31:05.851Z",
+  "dimensions": {
+    "size": [
+      25.199999809265137,
+      19.9,
+      9.485713127262
+    ],
+    "units": "cm",
+    "metersPerUnit": 0.01
+  },
+  "coordinateSystem": "Y-up, right-handed; GLB geometry is in meters; project and dimensions are in centimeters",
+  "camera": {
+    "position": [
+      -5.599999904632568,
+      13.141599491310174,
+      51.8191332607843
+    ],
+    "target": [
+      -5.599999904632568,
+      10.55,
+      -0.012856565419139262
+    ],
+    "projection": "perspective"
+  },
+  "background": "#edf0e8",
+  "lighting": "Soft studio",
+  "description": "Table Time campus dining concept. Stylized editable geometry interpreted from the supplied camera and app illustration; dimensions are approximate, not manufacturing specifications.",
+  "featureHotspots": "Camera: proposed crowd sensing. App: illustrative dining availability.",
+  "files": {
+    "model": "model.glb",
+    "project": "project.json",
+    "preview": "preview.png",
+    "readme": "README.txt"
+  },
+  "modelSha256": "365c6742b78adc11d3ddc1d318848333dfd10bfc7891b5e415d04183dc79e305"
+}

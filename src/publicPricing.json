@@ -1,0 +1,17 @@
+{
+  "ventureName": "Table Time",
+  "products": [
+    {
+      "id": "pilot",
+      "name": "Dining Hall Pilot",
+      "description": "Software-only campus dining information with existing reliable data.",
+      "price": 350,
+      "currency": "USD",
+      "billing": "monthly",
+      "unit": "per dining hall",
+      "features": "Crowd levels; estimated waits; group seating information; basic administrator insights. Proposed capabilities requiring validation.",
+      "addons": "New sensors, installation and custom integrations excluded and separately scoped.",
+      "featureStatus": "Proposed; requires validation"
+    }
+  ]
+}
